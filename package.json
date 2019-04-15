@@ -6,7 +6,9 @@
   "dependencies": {
     "twig": "^1.13.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.4"
+  },
   "keywords": [
     "Pattern Lab",
     "Atomic Web Design",
